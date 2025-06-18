@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/aad6cf98dc2641b2ad36f39734acedb6/artifacts
+end_time: 1750240849167
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aad6cf98dc2641b2ad36f39734acedb6
+run_name: serious-shark-869
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750240849143
+status: 3
+tags: []
+user_id: csykianakis

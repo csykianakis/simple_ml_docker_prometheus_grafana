@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/418daf9e867640fbb31d969d06ebade3/artifacts
+end_time: 1750240918350
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 418daf9e867640fbb31d969d06ebade3
+run_name: burly-crane-389
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750240918322
+status: 3
+tags: []
+user_id: csykianakis

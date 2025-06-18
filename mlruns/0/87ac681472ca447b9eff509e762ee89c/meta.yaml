@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/87ac681472ca447b9eff509e762ee89c/artifacts
+end_time: 1750242399516
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 87ac681472ca447b9eff509e762ee89c
+run_name: gentle-quail-653
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750242399482
+status: 3
+tags: []
+user_id: csykianakis

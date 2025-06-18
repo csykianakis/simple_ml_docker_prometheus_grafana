@@ -1,0 +1,19 @@
+# scrape_configs:
+#   - job_name: flask_app
+#     static_configs:
+#       - targets: ['host.docker.internal:2001']
+
+
+# scrape_configs:
+#   - job_name: flask_app
+#     static_configs:
+#       - targets: ['flask:2001']
+
+
+global:
+  scrape_interval: 5s
+
+scrape_configs:
+  - job_name: flask_app
+    static_configs:
+      - targets: ['flask:2001']

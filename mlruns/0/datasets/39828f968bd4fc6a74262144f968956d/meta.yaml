@@ -1,0 +1,7 @@
+digest: 27cc2442
+name: dataset
+profile: '{"num_rows": 100, "num_elements": 100}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "x", "required": true}]}'
+source: '{"tags": {"mlflow.user": "csykianakis", "mlflow.source.name": "train.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "639bc43b738ea94d0477a58e8adadd40d42b2577"}}'
+source_type: code

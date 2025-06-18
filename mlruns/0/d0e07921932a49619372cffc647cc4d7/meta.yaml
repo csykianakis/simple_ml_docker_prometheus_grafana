@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d0e07921932a49619372cffc647cc4d7/artifacts
+end_time: 1750241842188
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d0e07921932a49619372cffc647cc4d7
+run_name: bemused-ram-359
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750241842154
+status: 3
+tags: []
+user_id: csykianakis

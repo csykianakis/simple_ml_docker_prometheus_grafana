@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.tfmetal/
+
+# Docker
+*.log
+*.pid
+docker-compose.override.yml
+
+# VSCode or editors
+.vscode/
+.idea/
+
+# Other
+*.sqlite3
+.DS_Store

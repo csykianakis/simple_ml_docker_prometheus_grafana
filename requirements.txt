@@ -1,0 +1,16 @@
+# --------------------- requirements.txt ---------------------
+Flask
+scikit-learn
+joblib
+pandas
+mlflow
+python-dotenv
+pydantic
+requests
+pytest
+prometheus_flask_exporter
+evidently
+flask
+pydantic
+mlflow
+prometheus_flask_exporter

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/10f2ff2ea36e41e0ae1b8daa0fdd42d8/artifacts
+end_time: 1750244341606
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 10f2ff2ea36e41e0ae1b8daa0fdd42d8
+run_name: stylish-wren-608
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750244340154
+status: 3
+tags: []
+user_id: csykianakis
